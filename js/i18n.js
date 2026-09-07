@@ -94,11 +94,11 @@ const translations = {
 
 const trainingItems = {
   no: [
-    { title: "Sadana Intensive, Yoga Alliance Teacher training program", detail: "Puro Yoga, Oslo, med Alexander Medin · 200 t · 2016" },
-    { title: "Buddha and the Yogis: Crossing Paths", detail: "Yoga Campus, London, med Richard Freeman, Mary Taylor, Robert Thurman · 30 t · 2019" },
-    { title: "Ashtanga Yoga teacher training", detail: "Lisboa, Portugal, med David Swendson · 40 t · 2015" },
-    { title: "Ashtanga Vinyasa Yoga Immersion", detail: "Yogi Wood, Gjøvik, med Basia Lipska Larsen · 40 t · 2015" },
-    { title: "Eventyrreisen Yoga for barn", detail: "Nordstjerna Barneyoga, Olden, med Tove Iren Kvarnmo · 20 t · 2019, 2020" }
+    { title: "Sadana Intensive, Yoga Alliance Teacher training program", detail: "Puro Yoga, Oslo, med Alexander Medin · 200 timar · 2016" },
+    { title: "Buddha and the Yogis: Crossing Paths", detail: "Yoga Campus, London, med Richard Freeman, Mary Taylor, Robert Thurman · 30 timar · 2019" },
+    { title: "Ashtanga Yoga teacher training", detail: "Lisboa, Portugal, med David Swendson · 40 timar · 2015" },
+    { title: "Ashtanga Vinyasa Yoga Immersion", detail: "Yogi Wood, Gjøvik, med Basia Lipska Larsen · 40 timar · 2015" },
+    { title: "Eventyrreisen Yoga for barn", detail: "Nordstjerna Barneyoga, Olden, med Tove Iren Kvarnmo · 20 timar · 2019, 2020" }
   ],
   en: [
     { title: "Sadana Intensive, Yoga Alliance Teacher training program", detail: "Puro Yoga, Oslo, with Alexander Medin · 200 hrs · 2016" },
